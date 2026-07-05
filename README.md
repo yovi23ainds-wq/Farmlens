@@ -161,11 +161,11 @@ python main.py
 
 ## 📸 Screenshots
 
-> Add screenshots of your application here.
+![Home Page](public/farm-lens-hero.png)
+*Home Page*
 
-- Home Page
 - Disease Detection
-- Prediction Result
+- Prediction Result  
 - User Profile
 
 ---
