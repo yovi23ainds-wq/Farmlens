@@ -1,0 +1,21 @@
+# FarmLens
+
+![FarmLens UI](public/farm-lens-hero.png)
+
+**Expert care for the health & growth of your plants**
+
+## About
+FarmLens is an AI-powered dashboard that helps farmers and plant owners with diagnostics, preventive care, and data analysis.
+
+## Tech Stack
+`TypeScript` `Vite` `React` `Tailwind CSS` `ML`
+
+## Features
+- Plant health diagnostics
+- Preventive care recommendations 
+- Data analysis dashboard
+
+## Run Locally
+```bash
+npm install
+npm run dev
